@@ -10,13 +10,13 @@ The navigation bar is located at the top of each page and provides links to easi
 - Resume: Link to the resume page where users can view your resume details.
 - Courses: Link to the courses page where users can find descriptions and images of your program-related courses.
 - Contact Me: Link to the contact page where users can send messages to you.
-[index page](image/index.png)
+![index page](image/index.png)
 ## Resume Page
 Include details about my resume here.
-[resume page](image/resume.png)
+![resume page](image/resume.png)
 ## Courses Page
 Include descriptions and images of my program-related courses here.
-[courses page](image/courses.png)
+![courses page](image/courses.png)
 ## Contact Me Page
 Allow users to send messages to me. They can use a contact form or provide contact information.
-[contact page](image/contact.png)
+![contact page](image/contact.png)
